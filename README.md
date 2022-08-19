@@ -15,7 +15,7 @@ Encryption can be used for:
 2. To avoid "replay attack" type attacks (e.g., reusing a previously encrypted identifier
    and pass it back into the URL to download the document in question), session key should be used so that the generated string
    is unique to the session (see the examples with `session_id()`).
-3. [This stackexchange topic talks about these topics](https://security.stackexchange.com/questions/34277/avoiding-direct-object-references)z
+3. [This stackexchange topic talks about these topics](https://security.stackexchange.com/questions/34277/avoiding-direct-object-references)
 
 ### Example :
 
